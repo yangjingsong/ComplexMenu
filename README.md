@@ -188,3 +188,5 @@ ublic class ComplexSortMenu extends LinearLayout {
                 .addTitleView(complexTitleView1,sortView1)
                 .build();
 ```
+
+![image](https://github.com/yangjingsong/ComplexMenu/blob/master/screenshot/Screenshot_2017-02-21-11-09-51-370_com.yjs.comple.png)
